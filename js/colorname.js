@@ -3,7 +3,7 @@
     //These are your default colors thry dont have to be rbg codes or whatever simply putting "green" or "pink" will also work
 
     var time = 10 //How fast the wave gradients change
-    var nameclr = "#ff5a3d" //Name color
+    var nameclr = "#a600ff" //Name color
     var gcolor1 = "#23dbcf" //First color in gradient
     var gcolor2 = "#fc74ef" //Second color in gradient
 
